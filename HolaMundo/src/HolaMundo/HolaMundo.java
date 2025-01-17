@@ -10,11 +10,13 @@ public class HolaMundo {
 		array[1] = 456;
 		array[2] = 789;
 		array[3] = 999;
+		array[4] =0;
 
 		System.out.println(array[0]);
 		System.out.println(array[1]);
 		System.out.println(array[2]);
 		System.out.println(array[3]);
+		System.out.println(array[4]);
 
 		for (int x : array) {
 			System.out.println(x);
