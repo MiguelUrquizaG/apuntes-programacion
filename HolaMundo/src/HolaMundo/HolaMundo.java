@@ -17,6 +17,7 @@ public class HolaMundo {
 		System.out.println(array[2]);
 		System.out.println(array[3]);
 		System.out.println(array[4]);
+		daijdnaawevgaetvfg
 
 		for (int x : array) {
 			System.out.println(x);
